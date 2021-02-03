@@ -1,0 +1,4 @@
+#showtooltip
+/stand && /cast [noform:5]
+/cast Faerie Fire
+/startattack

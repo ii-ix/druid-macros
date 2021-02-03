@@ -1,0 +1,7 @@
+#showtooltip [mod:shift] Cat Form; [mod:ctrl] Bear Form; Endurance
+/stand
+/cast [nomod] [swimming] !Aquatic Form
+/cancelform
+/cast [mod:shift] !Cat Form(Shapeshift)
+/cancelform
+/cast [mod:ctrl] !Bear Form(Shapeshift)

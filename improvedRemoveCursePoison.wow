@@ -1,0 +1,5 @@
+#showtooltip
+/stand
+/cancelform
+/cast [nomod]Cure Poison
+/cast [mod:shift]Remove Curse

@@ -1,0 +1,8 @@
+#showtooltip
+/stand
+/cancelform
+/cast [nomod] Regrowth
+/cast [mod:shift] Regrowth(Rank 2)
+/cast [mod:alt] Regrowth(Rank 1)
+/cast [mod:ctrl] War Stomp
+/cast [mod:ctrl] Regrowth

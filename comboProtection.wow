@@ -1,0 +1,5 @@
+#showtooltip
+/cast [nomod] Blessing of Protection
+/cast [mod:shift] Divine Protection
+/cast [mod:ctrl] Lay on Hands
+/cast [mod:alt] Insignia of the Alliance

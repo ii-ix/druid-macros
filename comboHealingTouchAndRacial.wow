@@ -1,0 +1,8 @@
+#showtooltip
+/stand
+/cancelform
+/cast [nomod] Healing Touch
+/cast [mod:shift] Healing Touch(Rank 3)
+/cast [mod:alt] Healing Touch(Rank 2)
+/cast [mod:ctrl] War Stomp
+/cast [mod:ctrl] Healing Touch

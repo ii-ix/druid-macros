@@ -1,0 +1,6 @@
+#showtooltip
+/stand
+/cancelform
+/startattack
+/cast [nomod]Moonfire
+/cast [mod:shift]Moonfire(Rank 1)

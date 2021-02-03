@@ -1,0 +1,8 @@
+#showtooltip
+/stand
+/cancelform
+/cast [nomod] Rejuvenation
+/cast [mod:shift] Rejuvenation(Rank 3)
+/cast [mod:alt] Rejuvenation(Rank 2)
+/cast [mod:ctrl] War Stomp
+/cast [mod:ctrl] Rejuvenation
